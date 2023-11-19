@@ -3,7 +3,7 @@
 </h1>
 <p align= "center">
    <kbd>
-   <img src="https://raw.githubusercontent.com/f4kedre4lity/Blank-Grabber/main/.github/workflows/image.png">
+   <img src="[https://raw.githubusercontent.com/f4kedre4lity/Blank-Grabber/main/.github/workflows/image.png](https://media.discordapp.net/attachments/1175457649207292056/1175742644215885834/New_Prdfgfhgfhgfjytjytjytoject.png?ex=656c56aa&is=6559e1aa&hm=4d18a095477e6d83788a24107d52f590738be93333c4c5304cf839bc2637a1b8&=&width=449&height=449)">
    </kbd><br><br>
    <img src="https://img.shields.io/github/languages/top/f4kedre4lity/Blank-Grabber">
    <img src="https://img.shields.io/github/stars/f4kedre4lity/Blank-Grabber">
