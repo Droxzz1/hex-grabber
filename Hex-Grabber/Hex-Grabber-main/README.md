@@ -1,5 +1,5 @@
 <h1 align="center">
-   Blank Grabber
+   Hex Logger
 </h1>
 <p align= "center">
    <kbd>
